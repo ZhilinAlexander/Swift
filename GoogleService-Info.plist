@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>285298436165-v61s9ken35sqk2kqt9dbi0riuckkg22e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.285298436165-v61s9ken35sqk2kqt9dbi0riuckkg22e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRmypwjC29OawIMveD1S26RPXHxvwcSGw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>285298436165</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Alexander-Zhilin.ClinicDiplom</string>
+	<key>PROJECT_ID</key>
+	<string>clinicdiplom</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clinicdiplom.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:285298436165:ios:08a42d6c2d5d051b3a1b2c</string>
+</dict>
+</plist>
